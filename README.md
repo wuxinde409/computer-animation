@@ -4,4 +4,4 @@
 
 Click image to watch  
 
-[![IMAGE ALT TEXT](https://https://github.com/wuxinde409/computer-animation/blob/main/stage.png)](https://www.youtube.com/watch?v=IV2iTNQKmbs&ab_channel=KAIRaun "Unity")
+[![IMAGE ALT TEXT](https://github.com/wuxinde409/computer-animation/blob/main/stage.png)](https://www.youtube.com/watch?v=IV2iTNQKmbs&ab_channel=KAIRaun "Unity")
